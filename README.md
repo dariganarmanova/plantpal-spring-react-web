@@ -36,6 +36,13 @@ run the app:
 ```bash 
 mvn spring-boot:run
 ```
+/home
+![Screenshot 2025-01-18 214557](https://github.com/user-attachments/assets/e0b56c4b-3a17-4e84-9b05-38f7763c92cc)
+/spotik
+![Screenshot 2025-01-18 214539](https://github.com/user-attachments/assets/a7586652-0c95-47bc-9c37-18836b7c2e75)
+![Screenshot 2025-01-18 214549](https://github.com/user-attachments/assets/135103a1-5175-4fd6-8f01-4858538f8bfc)
+/dashboard
+![Screenshot 2025-01-18 214527](https://github.com/user-attachments/assets/3a73f851-8a52-42d2-b452-ca2fe8a2fb21)
 
 ## after running go to port localhost:8082/home
 
